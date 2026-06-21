@@ -1,59 +1,83 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=160&section=header&text=minbro-01&fontSize=44&fontAlignY=36&desc=AI-assisted%20development%20%7C%20coding%20agents%20%7C%20workflow%20notes&descAlignY=60&descSize=15&fontColor=ffffff" alt="minbro-01 profile banner" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,100:22C55E&height=180&section=header&text=Welcome%20to%20my%20profile&fontColor=000000&fontSize=48" alt="Welcome to my profile" />
+</div>
 
-<h3 align="center">Learning how to build better software workflows with AI tools.</h3>
+<div align="center">
+  <h2>안녕하세요, 조민형입니다.</h2>
+  <p>
+    AI Engineering과 자율주행에 관심을 가지고 공부하고 있습니다.<br />
+    작게 실험하고, 기록하고, 검증하면서 성장하려고 합니다.
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI--assisted%20development-111827?style=for-the-badge" alt="AI-assisted development" />
-  <img src="https://img.shields.io/badge/Coding%20agents-0EA5E9?style=for-the-badge" alt="Coding agents" />
-  <img src="https://img.shields.io/badge/Developer%20workflow-22C55E?style=for-the-badge" alt="Developer workflow" />
-  <img src="https://img.shields.io/badge/Build%20logs-F59E0B?style=for-the-badge" alt="Build logs" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Autonomous%20Driving-0EA5E9?style=for-the-badge" alt="Autonomous Driving" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-22C55E?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Coding%20Agents-F59E0B?style=for-the-badge" alt="Coding Agents" />
+</div>
 
 ---
 
-## About Me
+## 관심 분야
 
-I am interested in the point where software development, AI tools, and personal workflow meet.
-
-I am not trying to use AI tools only because they are fast. I want to understand how to use them in a way that keeps the work readable, intentional, and verifiable.
-
-This profile is where I am starting to organize that process: what I try, what I learn, what works, and what I would do differently next time.
-
-## What I Am Exploring
-
-| Area | What I care about |
+| Area | What I am exploring |
 | --- | --- |
-| **Coding agents** | Using AI assistants as collaborators without losing ownership of the work. |
-| **Prompt and project rules** | Writing context that leads to smaller, clearer, more reliable changes. |
-| **Developer tooling** | Reducing repeated manual work through useful tools and repeatable setup. |
-| **Verification** | Checking behavior with concrete evidence instead of assuming a change is done. |
-| **Documentation** | Keeping notes that explain decisions, not just final results. |
+| AI Engineering | AI 모델을 실제 문제 해결에 적용하는 방법을 공부하고 있습니다. |
+| Autonomous Driving | 인지, 판단, 제어가 연결되는 자율주행 시스템에 관심이 있습니다. |
+| Computer Vision | 카메라 기반 환경 인식과 시각 데이터 처리 흐름을 배우고 있습니다. |
+| Coding Agents | AI 도구를 활용해 더 명확하고 검증 가능한 개발 흐름을 만들고 싶습니다. |
+
+## Learning & Tech
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
+</div>
+
+## 기록하고 싶은 것
+
+- 공부하면서 이해한 AI Engineering 개념
+- 자율주행과 Computer Vision 관련 실험
+- 개발 과정에서 배운 점과 시행착오
+- AI 도구를 활용한 개발 워크플로
+- 직접 만든 프로젝트와 참고한 자료를 명확히 구분하는 기록
 
 ## Current Workspace
 
-| Repository | Role |
+| Repository | Purpose |
 | --- | --- |
-| [`minbro-01`](https://github.com/minbro-01/minbro-01) | Profile README and public index. |
-| `ai-coding-workflow-lab` | Planned space for AI coding workflow notes and experiments. |
-| `build-log` | Planned timeline of projects, setup notes, and lessons learned. |
+| [`minbro-01`](https://github.com/minbro-01/minbro-01) | GitHub profile and public index |
+| `ai-coding-workflow-lab` | Planned notes for AI coding workflows and experiments |
+| `build-log` | Planned project and learning log |
 
-## Working Style
+## Contact
 
-```text
-start small
-state assumptions
-verify the result
-write down what changed
-```
+<div align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:cmh120305@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" />
+  </a>
+</div>
 
-## GitHub Snapshot
+## Stats
 
-<p align="center">
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=minbro-01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for minbro-01" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbro-01&layout=compact&theme=transparent&hide_border=true" alt="Top languages for minbro-01" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=90&section=footer" alt="footer wave" />
-</p>
+</div>
