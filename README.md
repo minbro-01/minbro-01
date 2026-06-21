@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,100:22C55E&height=180&section=header&text=Welcome%20to%20Minhyung's%20Lab&fontColor=000000&fontSize=46" alt="Welcome to Minhyung's Lab" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,100:22C55E&height=180&section=header&text=Welcome%20to%20Minhyeong%27s%20Lab&fontColor=000000&fontSize=46" alt="Welcome to Minhyeong's Lab" />
 </div>
 
 <div align="center">
