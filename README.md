@@ -54,15 +54,15 @@
 - 구현 과정에서 만난 오류, 해결 방법, 배운 점
 - 직접 만든 결과물과 참고 자료를 명확히 구분한 기록
 
-## Workspace Plan
+## Workspace
 
 | Repository | Purpose |
 | --- | --- |
 | [`minbro-01`](https://github.com/minbro-01/minbro-01) | GitHub profile and public index |
-| `ai-engineering-notes` | AI Engineering 개념, 모델, 실험 정리 |
-| `autonomous-driving-lab` | 자율주행 관련 학습과 실험 기록 |
-| `computer-vision-study` | Computer Vision 공부 기록과 구현 실습 |
-| `research-log` | 논문, 프로젝트, 시행착오를 정리하는 연구 노트 |
+| [`ai-engineering-notes`](https://github.com/minbro-01/ai-engineering-notes) | AI Engineering 개념, 모델, 실험 정리 |
+| [`autonomous-driving-lab`](https://github.com/minbro-01/autonomous-driving-lab) | 자율주행 관련 학습과 실험 기록 |
+| [`computer-vision-study`](https://github.com/minbro-01/computer-vision-study) | Computer Vision 공부 기록과 구현 실습 |
+| [`research-log`](https://github.com/minbro-01/research-log) | 논문, 프로젝트, 시행착오를 정리하는 연구 노트 |
 
 ## Contact
 
