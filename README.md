@@ -1,42 +1,62 @@
-# minbro-01
+<h1 align="center">minbro-01</h1>
 
-I use this GitHub account to keep track of what I am learning, building, and organizing.
+<p align="center">
+  I am learning how to build better software workflows with AI tools, clear notes, and small experiments.
+</p>
 
-Right now I am focused on AI-assisted development: how to use coding agents, prompts, project rules, and verification steps without losing control of the work.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--assisted%20development-111827?style=flat-square" alt="AI-assisted development" />
+  <img src="https://img.shields.io/badge/Coding%20agents-2563EB?style=flat-square" alt="Coding agents" />
+  <img src="https://img.shields.io/badge/Developer%20workflow-0F766E?style=flat-square" alt="Developer workflow" />
+  <img src="https://img.shields.io/badge/Build%20logs-7C2D12?style=flat-square" alt="Build logs" />
+</p>
 
-## What I Am Organizing Here
+---
 
-- Notes from setting up tools and workflows.
-- Small experiments that are useful enough to keep.
-- Build logs for projects I start or finish.
-- A clear separation between my own work and repositories I use as references.
+## About Me
 
-## Current Focus
+I am interested in the point where software development, AI tools, and personal workflow meet.
 
-| Topic | What I want to understand |
+I do not want to use AI tools only because they are fast. I want to understand how to use them in a way that keeps the work readable, intentional, and verifiable.
+
+This GitHub profile is where I am starting to organize that process: what I try, what I learn, what works, and what I would do differently next time.
+
+## Interests
+
+| Area | What I care about |
 | --- | --- |
-| Coding agents | Where they help, where they fail, and how to give them better context. |
-| Project rules | How to write instructions that lead to smaller, clearer changes. |
-| Verification | How to check that a change actually works instead of only looking complete. |
-| Documentation | How to leave useful notes for future me and for other readers. |
+| AI-assisted development | Using coding agents as collaborators without losing ownership of the work. |
+| Prompt and project rules | Writing context that leads to smaller, clearer, more reliable changes. |
+| Developer tooling | Building or collecting tools that reduce repeated manual work. |
+| Documentation | Keeping notes that explain decisions, not just final results. |
+| Verification | Checking behavior with concrete evidence instead of assuming a change is done. |
 
-## Repository Map
+## Working Style
 
-| Repository | Status | Purpose |
-| --- | --- | --- |
-| [`minbro-01`](https://github.com/minbro-01/minbro-01) | Active | This profile and public index. |
-| `ai-coding-workflow-lab` | Planned | Notes, prompt experiments, and workflow templates. |
-| `build-log` | Planned | A chronological record of projects, decisions, and lessons. |
+- I like starting with a small version that can actually be checked.
+- I prefer clear assumptions over confident guesses.
+- I try to separate my own work from references or copied material.
+- I keep notes because the process is often as useful as the result.
 
-## How I Want This Profile To Read
+## Current Direction
 
-- Direct over flashy.
-- Specific over broad.
-- Original work clearly separated from references.
-- Progress visible even when projects are still small.
+I am turning this GitHub account into a public workspace for:
 
-## Next Steps
+- AI coding workflow notes.
+- Prompt and instruction experiments.
+- Setup logs for tools I use.
+- Small projects that come from those experiments.
 
-- Create `ai-coding-workflow-lab`.
-- Move setup notes into short, dated entries.
-- Pin only repositories that represent my own work.
+## Repository Plan
+
+| Repository | Purpose |
+| --- | --- |
+| [`minbro-01`](https://github.com/minbro-01/minbro-01) | Profile README and public index. |
+| `ai-coding-workflow-lab` | A planned place for prompt experiments, agent workflows, and reusable notes. |
+| `build-log` | A planned chronological log of what I build, change, and learn. |
+
+## What I Want To Show Here
+
+Not a finished portfolio yet. More like a clean record of progress.
+
+The goal is to make it easy to see what I am interested in, how I think about tools, and which work is actually mine.
