@@ -6,7 +6,7 @@
   <h2>안녕하세요, 조민형입니다.</h2>
   <p>
     AI Engineering과 자율주행에 관심을 가지고 공부하고 있는 학생입니다.<br />
-    이곳에는 공부한 개념, 실험 과정, 프로젝트 기록을 차근차근 정리하려고 합니다.
+    이곳에는 수업에서 배운 개념, 직접 찾아본 자료, 구현 실험과 프로젝트 기록을 차근차근 정리하려고 합니다.
   </p>
 </div>
 
@@ -29,7 +29,7 @@
 
 | Area | What I am studying |
 | --- | --- |
-| **AI Engineering** | AI 모델을 실제 문제에 적용하기 위한 데이터, 모델, 실험 흐름을 공부합니다. |
+| **AI Engineering** | 수업에서 배운 개념을 바탕으로 데이터, 모델, 실험 흐름을 직접 정리하고 구현해봅니다. |
 | **Autonomous Driving** | 인지, 판단, 제어가 연결되는 자율주행 시스템 구조에 관심이 있습니다. |
 | **Computer Vision** | 카메라 기반 객체 인식, 차선 인식, 시각 데이터 처리 과정을 배우고 있습니다. |
 | **Deep Learning** | PyTorch 기반 모델 구현과 학습 과정을 이해하려고 합니다. |
@@ -48,9 +48,10 @@
 
 ## What I Want To Document
 
-- AI Engineering과 Deep Learning 개념 정리
-- 자율주행 인지 시스템과 Computer Vision 실험
-- 논문, 강의, 프로젝트를 공부하며 남긴 요약과 질문
+- 학과 수업에서 배운 AI Engineering 개념
+- 직접 찾아본 논문, 기술 글, 강의 자료 요약
+- 읽은 내용을 바탕으로 한 작은 구현 실험
+- 자율주행 인지 시스템과 Computer Vision 실습
 - 구현 과정에서 만난 오류, 해결 방법, 배운 점
 - 직접 만든 결과물과 참고 자료를 명확히 구분한 기록
 
@@ -59,7 +60,7 @@
 | Repository | Purpose |
 | --- | --- |
 | [`minbro-01`](https://github.com/minbro-01/minbro-01) | GitHub profile and public index |
-| [`ai-engineering-notes`](https://github.com/minbro-01/ai-engineering-notes) | AI Engineering 개념, 모델, 실험 정리 |
+| [`ai-engineering-study`](https://github.com/minbro-01/ai-engineering-notes) | 수업 기반 AI Engineering 학습, 논문/자료 리뷰, 구현 실험 기록 |
 | [`autonomous-driving-lab`](https://github.com/minbro-01/autonomous-driving-lab) | 자율주행 관련 학습과 실험 기록 |
 | [`computer-vision-study`](https://github.com/minbro-01/computer-vision-study) | Computer Vision 공부 기록과 구현 실습 |
 | [`research-log`](https://github.com/minbro-01/research-log) | 논문, 프로젝트, 시행착오를 정리하는 연구 노트 |
