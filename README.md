@@ -60,7 +60,7 @@
 | Repository | Purpose |
 | --- | --- |
 | [`minbro-01`](https://github.com/minbro-01/minbro-01) | GitHub profile and public index |
-| [`ai-engineering-study`](https://github.com/minbro-01/ai-engineering-notes) | 수업 기반 AI Engineering 학습, 논문/자료 리뷰, 구현 실험 기록 |
+| [`ai-engineering-study`](https://github.com/minbro-01/ai-engineering-study) | 수업 기반 AI Engineering 학습, 논문/자료 리뷰, 구현 실험 기록 |
 | [`autonomous-driving-lab`](https://github.com/minbro-01/autonomous-driving-lab) | 자율주행 관련 학습과 실험 기록 |
 | [`computer-vision-study`](https://github.com/minbro-01/computer-vision-study) | Computer Vision 공부 기록과 구현 실습 |
 | [`research-log`](https://github.com/minbro-01/research-log) | 논문, 프로젝트, 시행착오를 정리하는 연구 노트 |
