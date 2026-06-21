@@ -23,7 +23,7 @@
 
 저는 AI 기술이 실제 환경을 인식하고 판단하는 시스템으로 이어지는 과정에 관심이 있습니다.
 
-특히 자율주행 분야에서 Computer Vision, Deep Learning, Robotics가 어떻게 연결되는지 공부하고 있습니다. 단순히 결과만 올리기보다, 어떤 개념을 이해했고 어떤 실험을 했으며 어디서 막혔는지를 함께 기록하려고 합니다.
+특히 자율주행 분야에서 Computer Vision과 Deep Learning이 실제 인지 시스템에 어떻게 적용되는지 공부하고 있습니다. 단순히 결과만 올리기보다, 어떤 개념을 이해했고 어떤 실험을 했으며 어디서 막혔는지를 함께 기록하려고 합니다.
 
 ## Research Interests
 
@@ -33,7 +33,7 @@
 | **Autonomous Driving** | 인지, 판단, 제어가 연결되는 자율주행 시스템 구조에 관심이 있습니다. |
 | **Computer Vision** | 카메라 기반 객체 인식, 차선 인식, 시각 데이터 처리 과정을 배우고 있습니다. |
 | **Deep Learning** | PyTorch 기반 모델 구현과 학습 과정을 이해하려고 합니다. |
-| **Robotics / ROS** | 로봇 시스템에서 센서, 제어, 소프트웨어가 연결되는 방식을 공부하고 있습니다. |
+| **Robotics** | 자율주행과 연결되는 로봇 시스템의 기본 구조를 앞으로 더 공부해보고 싶습니다. |
 
 ## Learning & Tools
 
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
