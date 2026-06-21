@@ -30,10 +30,11 @@
 | Area | What I am studying |
 | --- | --- |
 | **AI Engineering** | 수업에서 배운 개념을 바탕으로 데이터, 모델, 실험 흐름을 직접 정리하고 구현해봅니다. |
-| **Autonomous Driving** | 인지, 판단, 제어가 연결되는 자율주행 시스템 구조에 관심이 있습니다. |
-| **Computer Vision** | 카메라 기반 객체 인식, 차선 인식, 시각 데이터 처리 과정을 배우고 있습니다. |
-| **Deep Learning** | PyTorch 기반 모델 구현과 학습 과정을 이해하려고 합니다. |
-| **Robotics** | 자율주행과 연결되는 로봇 시스템의 기본 구조를 앞으로 더 공부해보고 싶습니다. |
+| **Autonomous Driving** | 인지, 예측, 판단이 연결되는 자율주행 시스템 구조에 관심이 있습니다. |
+| **Computer Vision** | 카메라 기반 객체 인식, 차선/도로 구조 인식, 시각 데이터 처리 과정을 배우고 있습니다. |
+| **Deep Learning** | RNN, CNN, Attention, Transformer와 PyTorch 기반 구현을 공부하고 있습니다. |
+| **NLP / LLM** | 기본 NLP부터 LLM까지 공부하고, DRT 운행 정책 제안 프로젝트로 연결하고 있습니다. |
+| **Reinforcement Learning** | MDP, DP, TD, Q-learning, SARSA, Deep RL을 공부하고 있습니다. |
 
 ## Learning & Tools
 
@@ -48,10 +49,11 @@
 
 ## What I Want To Document
 
-- 학과 수업에서 배운 AI Engineering 개념
+- 학과 수업에서 배운 자료구조, 알고리즘, 머신러닝, 딥러닝 개념
+- 시계열 분석, 자연어 처리, 강화학습을 공부하며 정리한 질문과 구현 아이디어
 - 직접 찾아본 논문, 기술 글, 강의 자료 요약
 - 읽은 내용을 바탕으로 한 작은 구현 실험
-- 자율주행 인지 시스템과 Computer Vision 실습
+- 차량 궤적예측, DRT 정책 제안, 도로 topology 인식 프로젝트 기록
 - 구현 과정에서 만난 오류, 해결 방법, 배운 점
 - 직접 만든 결과물과 참고 자료를 명확히 구분한 기록
 
