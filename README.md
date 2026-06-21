@@ -52,7 +52,7 @@
 | Track | Repository | What I keep there |
 | --- | --- | --- |
 | Study | [`ai-engineering-study`](https://github.com/minbro-01/ai-engineering-study) | 학과 수업 기반 개념 정리, 작은 구현 연습, 논문/자료 리뷰 |
-| Projects | `academic-projects` | 차량 궤적예측, DRT 정책 제안, road topology & ego-lane inference 같은 프로젝트 결과물 |
+| Projects | [`academic-projects`](https://github.com/minbro-01/academic-projects) | 차량 궤적예측, DRT 정책 제안, road topology & ego-lane inference 같은 프로젝트 결과물 |
 | Research | [`research-log`](https://github.com/minbro-01/research-log) | 논문 리뷰, 연구 질문, 논문화 진행, 시행착오와 회고 |
 
 ## Current Focus
