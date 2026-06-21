@@ -27,14 +27,13 @@
 
 ## Research Interests
 
-| Area | What I am studying |
+| Area | What I am interested in |
 | --- | --- |
-| **AI Engineering** | 수업에서 배운 개념을 바탕으로 데이터, 모델, 실험 흐름을 직접 정리하고 구현해봅니다. |
-| **Autonomous Driving** | 인지, 예측, 판단이 연결되는 자율주행 시스템 구조에 관심이 있습니다. |
-| **Computer Vision** | 도로 구조 인식, 차선/ego-lane 판단, 시각 데이터 기반 추론 과정을 공부하고 있습니다. |
-| **Deep Learning** | RNN, CNN, Attention, Transformer와 PyTorch 기반 구현을 공부하고 있습니다. |
-| **NLP / LLM** | 기본 NLP부터 LLM까지 공부하고, DRT 운행 정책 제안 프로젝트로 연결하고 있습니다. |
-| **Reinforcement Learning** | MDP, DP, TD, Q-learning, SARSA, Deep RL의 기본 원리를 공부하고 있습니다. |
+| **Autonomous Driving Perception** | 복잡한 도로 환경에서 차선, 도로 구조, 주변 객체 정보를 어떻게 인식하고 해석할 수 있는지에 관심이 있습니다. |
+| **Road Topology & Ego-lane Inference** | 교차로와 차선 혼잡 구간에서 road topology를 이해하고, ego 차량의 차선을 추론하는 문제를 공부하고 있습니다. |
+| **Trajectory Prediction** | 주변 차량의 과거 움직임을 바탕으로 미래 궤적을 예측하는 문제와 sequence model의 활용에 관심이 있습니다. |
+| **Computer Vision for Mobility** | 카메라 기반 인식 결과를 자율주행과 교통 문제 해결에 연결하는 방법을 공부하고 있습니다. |
+| **NLP / LLM for Transportation Policy** | DRT 운행 정책 제안 프로젝트를 바탕으로, 텍스트 기반 자료 분석과 정책 의사결정 지원에 관심이 있습니다. |
 
 ## Skills & Tools
 
@@ -55,7 +54,7 @@
 | Projects | [`academic-projects`](https://github.com/minbro-01/academic-projects) | 차량 궤적예측, DRT 정책 제안, road topology & ego-lane inference 같은 프로젝트 결과물 |
 | Research | [`research-log`](https://github.com/minbro-01/research-log) | 논문 리뷰, 연구 질문, 논문화 진행, 시행착오와 회고 |
 
-## Current Focus
+## Current Study Focus
 
 - 자료구조와 알고리즘을 바탕으로 한 문제 해결 능력 정리
 - 머신러닝 / 딥러닝 모델의 수학적 근거와 작동 원리 이해
