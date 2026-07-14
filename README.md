@@ -48,11 +48,12 @@
 
 ## How I Organize My Work
 
-| Track | Repository | What I keep there |
+| Track | Where | What I keep there |
 | --- | --- | --- |
-| Study | [`ai-engineering-study`](https://github.com/minbro-01/ai-engineering-study) | 학과 수업 기반 개념 정리, 작은 구현 연습, 논문/자료 리뷰 |
-| Projects | [`academic-projects`](https://github.com/minbro-01/academic-projects) | 차량 궤적예측, DRT 정책 제안, road topology & ego-lane inference 같은 프로젝트 결과물 |
+| Projects | 프로젝트별 개별 저장소 · private (요청 시 공유) | Vehicle Trajectory Prediction (IEEE ITSS AV Challenge), Traffic-rule-aware Future Path, Vectorized Map Generation, Road Topology & Ego-lane Inference, DRT Policy Recommendation |
 | Research | [`research-log`](https://github.com/minbro-01/research-log) | 논문 리뷰, 연구 질문, 논문화 진행, 시행착오와 회고 |
+
+> 프로젝트 저장소는 현재 비공개로 운영하고 있으며, 필요하신 경우 메일로 요청 주시면 접근 권한을 공유드립니다.
 
 ## Current Study Focus
 
