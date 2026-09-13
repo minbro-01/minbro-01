@@ -67,7 +67,7 @@
 ## Contact
 
 <div align="center">
-  <a href="https://www.instagram.com/_minbro.01/">
+  <a href="https://www.instagram.com/__minbro.01/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:cmh120305@gmail.com">
