@@ -1,90 +1,40 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,100:22C55E&height=180&section=header&text=Welcome%20to%20Minhyeong%27s%20Lab&fontColor=000000&fontSize=46" alt="Welcome to Minhyeong's Lab" />
-</div>
+# 조민형
 
-<div align="center">
-  <h2>안녕하세요, 조민형입니다.</h2>
-  <p>
-    AI Engineering과 자율주행에 관심을 가지고 공부하고 있는 학생입니다.<br />
-    수업에서 배운 개념을 직접 구현해보고, 프로젝트와 연구 기록으로 연결하는 과정을 정리하고 있습니다.
-  </p>
-</div>
+**AI 엔지니어링 · 자율주행 · 컴퓨터 비전**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/Autonomous%20Driving-0EA5E9?style=for-the-badge" alt="Autonomous Driving" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-22C55E?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-F59E0B?style=for-the-badge" alt="Deep Learning" />
-</div>
+AI와 자율주행을 공부하며, 배운 개념을 직접 구현하고 실제 문제에서 출발한 연구 질문으로 이어가고 있습니다. 프로젝트에서는 문제를 발견한 이유, 수행한 작업, 실험으로 확인한 내용과 남은 한계를 함께 기록합니다.
 
----
+[이메일](mailto:cmh120305@gmail.com) · [Instagram](https://www.instagram.com/__minbro.01/) · [프로젝트 소개](https://github.com/minbro-01/academic-projects)
 
-## About Me
+## 주요 프로젝트
 
-저는 AI 기술이 실제 환경을 인식하고 판단하는 시스템으로 이어지는 과정에 관심이 있습니다.
-
-특히 자율주행 분야에서 Computer Vision, Deep Learning, NLP/LLM이 실제 문제 해결에 어떻게 연결되는지 공부하고 있습니다. 단순히 결과만 올리기보다, 어떤 개념을 이해했고 어떤 실험을 했으며 어떤 점을 더 공부해야 하는지를 함께 기록하려고 합니다.
-
-## Research Interests
-
-| Area | What I am interested in |
-| --- | --- |
-| **Autonomous Driving Perception** | 복잡한 도로 환경에서 차선, 도로 구조, 주변 객체 정보를 어떻게 인식하고 해석할 수 있는지에 관심이 있습니다. |
-| **Road Topology & Ego-lane Inference** | 교차로와 차선 혼잡 구간에서 road topology를 이해하고, ego 차량의 차선을 추론하는 문제를 공부하고 있습니다. |
-| **Trajectory Prediction** | 주변 차량의 과거 움직임을 바탕으로 미래 궤적을 예측하는 문제와 sequence model의 활용에 관심이 있습니다. |
-| **Computer Vision for Mobility** | 카메라 기반 인식 결과를 자율주행과 교통 문제 해결에 연결하는 방법을 공부하고 있습니다. |
-| **NLP / LLM for Transportation Policy** | DRT 운행 정책 제안 프로젝트를 바탕으로, 텍스트 기반 자료 분석과 정책 의사결정 지원에 관심이 있습니다. |
-
-## Skills & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
-</div>
-
-## How I Organize My Work
-
-| Track | Where | What I keep there |
+| 프로젝트 | 수행 내용 | 현재 단계 |
 | --- | --- | --- |
-| Projects | 프로젝트별 개별 저장소 · private (요청 시 공유) | Vehicle Trajectory Prediction (IEEE ITSS AV Challenge), Traffic-rule-aware Future Path, Vectorized Map Generation, Road Topology & Ego-lane Inference, DRT Policy Recommendation |
-| Research | [`research-log`](https://github.com/minbro-01/research-log) | 논문 리뷰, 연구 질문, 논문화 진행, 시행착오와 회고 |
+| [RAG·LLM 기반 DRT 정책 지원](https://github.com/minbro-01/academic-projects/tree/main/drt-policy-recommendation) | 문서 처리와 벡터 데이터베이스 구축, 검색 및 오픈 모델 답변 생성 코드 구현 | 프로토타입 구현 · 평가 보완 중 |
+| [지도 비의존 주행 장면 이해](https://github.com/minbro-01/academic-projects/tree/main/map-free-driving) | 교차로에서의 운전 경험을 바탕으로 영상처리·기존 인지 모델을 결합하고 주행 장면을 시각화 | 모델·실험 연구로 확장 중 |
+| [벡터맵 생성](https://github.com/minbro-01/academic-projects/tree/main/vector-map-generation) | 벡터맵 생성 프로젝트 수행 | **Confidential implementation** |
 
-> 프로젝트 저장소는 현재 비공개로 운영하고 있으며, 필요하신 경우 메일로 요청 주시면 접근 권한을 공유드립니다.
+**벡터맵 생성 코드 공개 범위:** 소스 코드는 기밀 및 공개 제한으로 대외 공개하지 않습니다.  
+*Confidential implementation — source code not publicly available.*
 
-## Current Study Focus
+## 연구 관심사
 
-- 자료구조와 알고리즘을 바탕으로 한 문제 해결 능력 정리
-- 머신러닝 / 딥러닝 모델의 수학적 근거와 작동 원리 이해
-- RNN, CNN, Attention, Transformer 기반 모델 구현
-- 자율주행 인지 관점에서 road topology와 ego-lane 판단 문제 정리
-- NLP/LLM을 활용한 DRT 운행 정책 제안과 논문화 진행
-- 강화학습의 MDP, DP, TD, Q-learning, SARSA, Deep RL 학습
+- **자율주행 인지:** 교차로와 복잡한 도로에서 차선·도로 구조를 인식하는 방법
+- **경로·궤적 예측:** 인식한 정보를 주행 경로와 미래 움직임 예측에 연결하는 방법
+- **교통 분야의 RAG·LLM:** 문서 검색과 오픈 모델을 활용한 교통 정책 지원
 
-## Contact
+## 기술과 도구
 
-<div align="center">
-  <a href="https://www.instagram.com/__minbro.01/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:cmh120305@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" />
-  </a>
-</div>
+Python · PyTorch · OpenCV · Linux · Git
 
-## Stats
+## 학습과 연구 기록
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minbro-01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for minbro-01" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbro-01&layout=compact&theme=transparent&hide_border=true" alt="Top languages for minbro-01" />
-</div>
+| 저장소 | 내용 |
+| --- | --- |
+| [academic-projects](https://github.com/minbro-01/academic-projects) | 공개 가능한 프로젝트 개요와 수행 경험 |
+| [research-log](https://github.com/minbro-01/research-log) | 논문 읽기, 연구 질문, 실험 계획과 회고 |
+| [ai-engineering-study](https://github.com/minbro-01/ai-engineering-study) | AI 관련 개념 정리와 구현 연습 |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=90&section=footer" alt="footer wave" />
-</div>
+## 연락
+
+프로젝트와 연구 관련 문의는 [이메일](mailto:cmh120305@gmail.com)로 연락해 주세요. 자료 공유는 각 프로젝트의 공개 범위에 따라 안내합니다.
