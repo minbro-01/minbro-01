@@ -10,7 +10,7 @@ AI와 자율주행을 공부하며, 배운 개념을 직접 구현하고 실제 
 
 | 프로젝트 | 수행 내용 | 현재 단계 |
 | --- | --- | --- |
-| [DRT Policy Recommendation (RAG·LLM)](https://github.com/minbro-01/academic-projects/tree/main/drt-policy-recommendation) | 문서 처리와 벡터 데이터베이스 구축, 검색 및 오픈 모델 답변 생성 코드 구현 | 프로토타입 구현 · 평가 보완 중 |
+| [DRT Policy Recommendation (RAG·LLM)](https://github.com/minbro-01/academic-projects/tree/main/drt-policy-recommendation) | 문서 처리·벡터 DB 구축, 검색·오픈 모델 답변 생성 및 조건별 비교 실험 | **프로젝트 구현 완료** |
 | [Traffic-rule-aware Future Path](https://github.com/minbro-01/academic-projects/tree/main/map-free-driving) | 교차로에서의 운전 경험을 바탕으로 영상처리·기존 인지 모델을 결합하고 주행 장면을 시각화 | 모델·실험 연구로 확장 중 |
 | [Vectorized Map Generation](https://github.com/minbro-01/academic-projects/tree/main/vector-map-generation) | 벡터맵 생성 프로젝트 수행 | **Confidential implementation** |
 
