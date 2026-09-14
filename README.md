@@ -10,9 +10,9 @@ AI와 자율주행을 공부하며, 배운 개념을 직접 구현하고 실제 
 
 | 프로젝트 | 수행 내용 | 현재 단계 |
 | --- | --- | --- |
-| [RAG·LLM 기반 DRT 정책 지원](https://github.com/minbro-01/academic-projects/tree/main/drt-policy-recommendation) | 문서 처리와 벡터 데이터베이스 구축, 검색 및 오픈 모델 답변 생성 코드 구현 | 프로토타입 구현 · 평가 보완 중 |
-| [지도 비의존 주행 장면 이해](https://github.com/minbro-01/academic-projects/tree/main/map-free-driving) | 교차로에서의 운전 경험을 바탕으로 영상처리·기존 인지 모델을 결합하고 주행 장면을 시각화 | 모델·실험 연구로 확장 중 |
-| [벡터맵 생성](https://github.com/minbro-01/academic-projects/tree/main/vector-map-generation) | 벡터맵 생성 프로젝트 수행 | **Confidential implementation** |
+| [DRT Policy Recommendation (RAG·LLM)](https://github.com/minbro-01/academic-projects/tree/main/drt-policy-recommendation) | 문서 처리와 벡터 데이터베이스 구축, 검색 및 오픈 모델 답변 생성 코드 구현 | 프로토타입 구현 · 평가 보완 중 |
+| [Traffic-rule-aware Future Path](https://github.com/minbro-01/academic-projects/tree/main/map-free-driving) | 교차로에서의 운전 경험을 바탕으로 영상처리·기존 인지 모델을 결합하고 주행 장면을 시각화 | 모델·실험 연구로 확장 중 |
+| [Vectorized Map Generation](https://github.com/minbro-01/academic-projects/tree/main/vector-map-generation) | 벡터맵 생성 프로젝트 수행 | **Confidential implementation** |
 
 **벡터맵 생성 코드 공개 범위:** 소스 코드는 기밀 및 공개 제한으로 대외 공개하지 않습니다.  
 *Confidential implementation — source code not publicly available.*
